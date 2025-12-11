@@ -8,7 +8,7 @@
 }
 
 .cor-branca {
-    color: #F5F5F5;
+    color: #0E1014;
 }
 
 /*Reset*/
@@ -21,7 +21,7 @@
 
 /*Estilização*/
 body {
-    background-color: #0E1014;
+    background-color: #f6f6f6;
 }
 
 header img{
@@ -40,7 +40,7 @@ h1 {
 }
 
 h1 span {
-    color: #F5F5F5;
+    color: #131212;
 }
 
 p {
